@@ -1,2 +1,6 @@
 # modulome-C_Glutamicum_Microarray_clean
-Clean data for C. Glutamicum Micorarray dataset analysis
+Note: Better data processing for this version
+
+Step 1: download metadata
+
+[In progress 02/21/23]
