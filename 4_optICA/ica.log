@@ -1,0 +1,1111 @@
+
+
+#################################
+# Computing dimension 20 of 853 #
+#################################
+
+Setting up...
+0.53 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+6.43 seconds elapsed
+Completed run 2 of 25 on Processor 0
+4.84 seconds elapsed
+Completed run 3 of 25 on Processor 0
+3.93 seconds elapsed
+Completed run 4 of 25 on Processor 0
+4.24 seconds elapsed
+Completed run 5 of 25 on Processor 0
+4.26 seconds elapsed
+Completed run 6 of 25 on Processor 0
+4.36 seconds elapsed
+Completed run 7 of 25 on Processor 0
+4.14 seconds elapsed
+Completed run 8 of 25 on Processor 0
+3.87 seconds elapsed
+Completed run 9 of 25 on Processor 0
+4.57 seconds elapsed
+Completed run 10 of 25 on Processor 0
+4.26 seconds elapsed
+Completed run 11 of 25 on Processor 0
+3.77 seconds elapsed
+Completed run 12 of 25 on Processor 0
+4.40 seconds elapsed
+Completed run 13 of 25 on Processor 0
+3.86 seconds elapsed
+Completed run 14 of 25 on Processor 0
+3.55 seconds elapsed
+Completed run 15 of 25 on Processor 0
+3.77 seconds elapsed
+Completed run 16 of 25 on Processor 0
+3.69 seconds elapsed
+Completed run 17 of 25 on Processor 0
+3.83 seconds elapsed
+Completed run 18 of 25 on Processor 0
+3.59 seconds elapsed
+Completed run 19 of 25 on Processor 0
+3.58 seconds elapsed
+Completed run 20 of 25 on Processor 0
+3.08 seconds elapsed
+Completed run 21 of 25 on Processor 0
+3.25 seconds elapsed
+Completed run 22 of 25 on Processor 0
+3.62 seconds elapsed
+Completed run 23 of 25 on Processor 0
+2.79 seconds elapsed
+Completed run 24 of 25 on Processor 0
+3.31 seconds elapsed
+Completed run 25 of 25 on Processor 0
+4.35 seconds elapsed
+
+All ICA runs complete!
+1.70 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.03 seconds elapsed
+
+Combining D matrix
+0.19 seconds elapsed
+
+Clustering
+0.05 seconds elapsed
+
+Identified 20 clusters
+Loading individual S and A matrices
+1.89 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.37 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/20
+0.11 seconds elapsed
+Complete!
+
+
+#################################
+# Computing dimension 60 of 853 #
+#################################
+
+Setting up...
+0.43 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+7.53 seconds elapsed
+Completed run 2 of 25 on Processor 0
+6.79 seconds elapsed
+Completed run 3 of 25 on Processor 0
+11.37 seconds elapsed
+Completed run 4 of 25 on Processor 0
+5.57 seconds elapsed
+Completed run 5 of 25 on Processor 0
+4.58 seconds elapsed
+Completed run 6 of 25 on Processor 0
+9.65 seconds elapsed
+Completed run 7 of 25 on Processor 0
+8.07 seconds elapsed
+Completed run 8 of 25 on Processor 0
+6.40 seconds elapsed
+Completed run 9 of 25 on Processor 0
+8.76 seconds elapsed
+Completed run 10 of 25 on Processor 0
+7.43 seconds elapsed
+Completed run 11 of 25 on Processor 0
+5.76 seconds elapsed
+Completed run 12 of 25 on Processor 0
+7.92 seconds elapsed
+Completed run 13 of 25 on Processor 0
+4.77 seconds elapsed
+Completed run 14 of 25 on Processor 0
+15.03 seconds elapsed
+Completed run 15 of 25 on Processor 0
+9.85 seconds elapsed
+Completed run 16 of 25 on Processor 0
+4.46 seconds elapsed
+Completed run 17 of 25 on Processor 0
+11.89 seconds elapsed
+Completed run 18 of 25 on Processor 0
+11.52 seconds elapsed
+Completed run 19 of 25 on Processor 0
+9.70 seconds elapsed
+Completed run 20 of 25 on Processor 0
+7.73 seconds elapsed
+Completed run 21 of 25 on Processor 0
+8.08 seconds elapsed
+Completed run 22 of 25 on Processor 0
+12.21 seconds elapsed
+Completed run 23 of 25 on Processor 0
+6.79 seconds elapsed
+Completed run 24 of 25 on Processor 0
+11.49 seconds elapsed
+Completed run 25 of 25 on Processor 0
+11.99 seconds elapsed
+
+All ICA runs complete!
+3.73 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+10.72 seconds elapsed
+
+Combining D matrix
+0.18 seconds elapsed
+
+Clustering
+0.11 seconds elapsed
+
+Identified 46 clusters
+Loading individual S and A matrices
+4.87 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+0.81 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/60
+0.26 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 100 of 853 #
+##################################
+
+Setting up...
+0.43 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+22.36 seconds elapsed
+Completed run 2 of 25 on Processor 0
+19.13 seconds elapsed
+Completed run 3 of 25 on Processor 0
+50.80 seconds elapsed
+Completed run 4 of 25 on Processor 0
+18.66 seconds elapsed
+Completed run 5 of 25 on Processor 0
+27.79 seconds elapsed
+Completed run 6 of 25 on Processor 0
+13.13 seconds elapsed
+Completed run 7 of 25 on Processor 0
+16.18 seconds elapsed
+Completed run 8 of 25 on Processor 0
+33.91 seconds elapsed
+Completed run 9 of 25 on Processor 0
+20.41 seconds elapsed
+Completed run 10 of 25 on Processor 0
+25.00 seconds elapsed
+Completed run 11 of 25 on Processor 0
+25.29 seconds elapsed
+Completed run 12 of 25 on Processor 0
+31.94 seconds elapsed
+Completed run 13 of 25 on Processor 0
+21.88 seconds elapsed
+Completed run 14 of 25 on Processor 0
+15.56 seconds elapsed
+Completed run 15 of 25 on Processor 0
+17.74 seconds elapsed
+Completed run 16 of 25 on Processor 0
+15.70 seconds elapsed
+Completed run 17 of 25 on Processor 0
+19.47 seconds elapsed
+Completed run 18 of 25 on Processor 0
+19.63 seconds elapsed
+Completed run 19 of 25 on Processor 0
+21.38 seconds elapsed
+Completed run 20 of 25 on Processor 0
+13.44 seconds elapsed
+Completed run 21 of 25 on Processor 0
+17.54 seconds elapsed
+Completed run 22 of 25 on Processor 0
+17.45 seconds elapsed
+Completed run 23 of 25 on Processor 0
+13.90 seconds elapsed
+Completed run 24 of 25 on Processor 0
+17.85 seconds elapsed
+Completed run 25 of 25 on Processor 0
+36.82 seconds elapsed
+
+All ICA runs complete!
+9.40 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+14.88 seconds elapsed
+
+Combining D matrix
+0.15 seconds elapsed
+
+Clustering
+0.18 seconds elapsed
+
+Identified 83 clusters
+Loading individual S and A matrices
+14.28 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+1.42 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/100
+0.54 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 140 of 853 #
+##################################
+
+Setting up...
+0.43 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+37.61 seconds elapsed
+Completed run 2 of 25 on Processor 0
+36.05 seconds elapsed
+Completed run 3 of 25 on Processor 0
+22.73 seconds elapsed
+Completed run 4 of 25 on Processor 0
+17.32 seconds elapsed
+Completed run 5 of 25 on Processor 0
+22.42 seconds elapsed
+Completed run 6 of 25 on Processor 0
+27.30 seconds elapsed
+Completed run 7 of 25 on Processor 0
+27.20 seconds elapsed
+Completed run 8 of 25 on Processor 0
+33.95 seconds elapsed
+Completed run 9 of 25 on Processor 0
+1.26 minutes elapsed
+Completed run 10 of 25 on Processor 0
+25.20 seconds elapsed
+Completed run 11 of 25 on Processor 0
+43.39 seconds elapsed
+Completed run 12 of 25 on Processor 0
+21.80 seconds elapsed
+Completed run 13 of 25 on Processor 0
+43.18 seconds elapsed
+Completed run 14 of 25 on Processor 0
+37.34 seconds elapsed
+Completed run 15 of 25 on Processor 0
+36.96 seconds elapsed
+Completed run 16 of 25 on Processor 0
+22.25 seconds elapsed
+Completed run 17 of 25 on Processor 0
+25.83 seconds elapsed
+Completed run 18 of 25 on Processor 0
+52.15 seconds elapsed
+Completed run 19 of 25 on Processor 0
+24.50 seconds elapsed
+Completed run 20 of 25 on Processor 0
+34.92 seconds elapsed
+Completed run 21 of 25 on Processor 0
+42.52 seconds elapsed
+Completed run 22 of 25 on Processor 0
+26.16 seconds elapsed
+Completed run 23 of 25 on Processor 0
+36.56 seconds elapsed
+Completed run 24 of 25 on Processor 0
+26.89 seconds elapsed
+Completed run 25 of 25 on Processor 0
+42.33 seconds elapsed
+
+All ICA runs complete!
+14.32 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+23.54 seconds elapsed
+
+Combining D matrix
+0.23 seconds elapsed
+
+Clustering
+0.25 seconds elapsed
+
+Identified 103 clusters
+Loading individual S and A matrices
+12.09 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+1.75 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/140
+0.56 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 180 of 853 #
+##################################
+
+Setting up...
+0.44 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+56.78 seconds elapsed
+Completed run 2 of 25 on Processor 0
+49.78 seconds elapsed
+Completed run 3 of 25 on Processor 0
+1.30 minutes elapsed
+Completed run 4 of 25 on Processor 0
+1.11 minutes elapsed
+Completed run 5 of 25 on Processor 0
+1.09 minutes elapsed
+Completed run 6 of 25 on Processor 0
+42.31 seconds elapsed
+Completed run 7 of 25 on Processor 0
+1.79 minutes elapsed
+Completed run 8 of 25 on Processor 0
+56.89 seconds elapsed
+Completed run 9 of 25 on Processor 0
+41.83 seconds elapsed
+Completed run 10 of 25 on Processor 0
+57.35 seconds elapsed
+Completed run 11 of 25 on Processor 0
+2.10 minutes elapsed
+Completed run 12 of 25 on Processor 0
+47.95 seconds elapsed
+Completed run 13 of 25 on Processor 0
+56.91 seconds elapsed
+Completed run 14 of 25 on Processor 0
+48.23 seconds elapsed
+Completed run 15 of 25 on Processor 0
+1.04 minutes elapsed
+Completed run 16 of 25 on Processor 0
+1.85 minutes elapsed
+Completed run 17 of 25 on Processor 0
+44.53 seconds elapsed
+Completed run 18 of 25 on Processor 0
+39.33 seconds elapsed
+Completed run 19 of 25 on Processor 0
+1.28 minutes elapsed
+Completed run 20 of 25 on Processor 0
+1.42 minutes elapsed
+Completed run 21 of 25 on Processor 0
+36.78 seconds elapsed
+Completed run 22 of 25 on Processor 0
+1.19 minutes elapsed
+Completed run 23 of 25 on Processor 0
+1.44 minutes elapsed
+Completed run 24 of 25 on Processor 0
+1.74 minutes elapsed
+Completed run 25 of 25 on Processor 0
+58.34 seconds elapsed
+
+All ICA runs complete!
+28.32 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+38.42 seconds elapsed
+
+Combining D matrix
+0.53 seconds elapsed
+
+Clustering
+0.34 seconds elapsed
+
+Identified 140 clusters
+Loading individual S and A matrices
+21.71 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+2.66 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/180
+0.88 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 220 of 853 #
+##################################
+
+Setting up...
+0.43 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+1.47 minutes elapsed
+Completed run 2 of 25 on Processor 0
+1.21 minutes elapsed
+Completed run 3 of 25 on Processor 0
+1.19 minutes elapsed
+Completed run 4 of 25 on Processor 0
+53.06 seconds elapsed
+Completed run 5 of 25 on Processor 0
+3.38 minutes elapsed
+Completed run 6 of 25 on Processor 0
+1.61 minutes elapsed
+Completed run 7 of 25 on Processor 0
+2.51 minutes elapsed
+Completed run 8 of 25 on Processor 0
+2.32 minutes elapsed
+Completed run 9 of 25 on Processor 0
+2.45 minutes elapsed
+Completed run 10 of 25 on Processor 0
+1.67 minutes elapsed
+Completed run 11 of 25 on Processor 0
+1.16 minutes elapsed
+Completed run 12 of 25 on Processor 0
+1.68 minutes elapsed
+Completed run 13 of 25 on Processor 0
+1.28 minutes elapsed
+Completed run 14 of 25 on Processor 0
+2.17 minutes elapsed
+Completed run 15 of 25 on Processor 0
+1.47 minutes elapsed
+Completed run 16 of 25 on Processor 0
+2.83 minutes elapsed
+Completed run 17 of 25 on Processor 0
+1.79 minutes elapsed
+Completed run 18 of 25 on Processor 0
+1.65 minutes elapsed
+Completed run 19 of 25 on Processor 0
+1.52 minutes elapsed
+Completed run 20 of 25 on Processor 0
+2.76 minutes elapsed
+Completed run 21 of 25 on Processor 0
+1.33 minutes elapsed
+Completed run 22 of 25 on Processor 0
+1.51 minutes elapsed
+Completed run 23 of 25 on Processor 0
+2.18 minutes elapsed
+Completed run 24 of 25 on Processor 0
+2.05 minutes elapsed
+Completed run 25 of 25 on Processor 0
+1.85 minutes elapsed
+
+All ICA runs complete!
+46.30 minutes elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+49.67 seconds elapsed
+
+Combining D matrix
+0.43 seconds elapsed
+
+Clustering
+0.40 seconds elapsed
+
+Identified 169 clusters
+Loading individual S and A matrices
+23.99 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+3.25 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/220
+1.11 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 260 of 853 #
+##################################
+
+Setting up...
+0.49 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+2.17 minutes elapsed
+Completed run 2 of 25 on Processor 0
+2.77 minutes elapsed
+Completed run 3 of 25 on Processor 0
+3.05 minutes elapsed
+Completed run 4 of 25 on Processor 0
+2.30 minutes elapsed
+Completed run 5 of 25 on Processor 0
+3.17 minutes elapsed
+Completed run 6 of 25 on Processor 0
+1.77 minutes elapsed
+Completed run 7 of 25 on Processor 0
+2.24 minutes elapsed
+Completed run 8 of 25 on Processor 0
+3.91 minutes elapsed
+Completed run 9 of 25 on Processor 0
+1.44 minutes elapsed
+Completed run 10 of 25 on Processor 0
+1.88 minutes elapsed
+Completed run 11 of 25 on Processor 0
+2.77 minutes elapsed
+Completed run 12 of 25 on Processor 0
+2.26 minutes elapsed
+Completed run 13 of 25 on Processor 0
+2.33 minutes elapsed
+Completed run 14 of 25 on Processor 0
+2.74 minutes elapsed
+Completed run 15 of 25 on Processor 0
+2.13 minutes elapsed
+Completed run 16 of 25 on Processor 0
+5.34 minutes elapsed
+Completed run 17 of 25 on Processor 0
+3.23 minutes elapsed
+Completed run 18 of 25 on Processor 0
+2.26 minutes elapsed
+Completed run 19 of 25 on Processor 0
+4.29 minutes elapsed
+Completed run 20 of 25 on Processor 0
+4.11 minutes elapsed
+Completed run 21 of 25 on Processor 0
+2.30 minutes elapsed
+Completed run 22 of 25 on Processor 0
+2.18 minutes elapsed
+Completed run 23 of 25 on Processor 0
+2.44 minutes elapsed
+Completed run 24 of 25 on Processor 0
+2.27 minutes elapsed
+Completed run 25 of 25 on Processor 0
+2.74 minutes elapsed
+
+All ICA runs complete!
+1.14 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+1.14 minutes elapsed
+
+Combining D matrix
+0.46 seconds elapsed
+
+Clustering
+0.55 seconds elapsed
+
+Identified 205 clusters
+Loading individual S and A matrices
+33.22 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.14 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/260
+1.84 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 300 of 853 #
+##################################
+
+Setting up...
+0.86 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+2.42 minutes elapsed
+Completed run 2 of 25 on Processor 0
+2.13 minutes elapsed
+Completed run 3 of 25 on Processor 0
+3.56 minutes elapsed
+Completed run 4 of 25 on Processor 0
+2.81 minutes elapsed
+Completed run 5 of 25 on Processor 0
+2.11 minutes elapsed
+Completed run 6 of 25 on Processor 0
+2.46 minutes elapsed
+Completed run 7 of 25 on Processor 0
+5.76 minutes elapsed
+Completed run 8 of 25 on Processor 0
+2.71 minutes elapsed
+Completed run 9 of 25 on Processor 0
+5.77 minutes elapsed
+Completed run 10 of 25 on Processor 0
+5.17 minutes elapsed
+Completed run 11 of 25 on Processor 0
+3.53 minutes elapsed
+Completed run 12 of 25 on Processor 0
+6.98 minutes elapsed
+Completed run 13 of 25 on Processor 0
+4.56 minutes elapsed
+Completed run 14 of 25 on Processor 0
+2.71 minutes elapsed
+Completed run 15 of 25 on Processor 0
+2.70 minutes elapsed
+Completed run 16 of 25 on Processor 0
+2.76 minutes elapsed
+Completed run 17 of 25 on Processor 0
+4.03 minutes elapsed
+Completed run 18 of 25 on Processor 0
+4.30 minutes elapsed
+Completed run 19 of 25 on Processor 0
+3.88 minutes elapsed
+Completed run 20 of 25 on Processor 0
+3.99 minutes elapsed
+Completed run 21 of 25 on Processor 0
+3.35 minutes elapsed
+Completed run 22 of 25 on Processor 0
+2.45 minutes elapsed
+Completed run 23 of 25 on Processor 0
+3.60 minutes elapsed
+Completed run 24 of 25 on Processor 0
+5.91 minutes elapsed
+Completed run 25 of 25 on Processor 0
+2.12 minutes elapsed
+
+All ICA runs complete!
+1.54 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+1.31 minutes elapsed
+
+Combining D matrix
+0.52 seconds elapsed
+
+Clustering
+0.53 seconds elapsed
+
+Identified 233 clusters
+Loading individual S and A matrices
+36.31 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+4.52 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/300
+2.09 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 340 of 853 #
+##################################
+
+Setting up...
+0.48 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+7.48 minutes elapsed
+Completed run 2 of 25 on Processor 0
+5.16 minutes elapsed
+Completed run 3 of 25 on Processor 0
+8.61 minutes elapsed
+Completed run 4 of 25 on Processor 0
+3.71 minutes elapsed
+Completed run 5 of 25 on Processor 0
+5.36 minutes elapsed
+Completed run 6 of 25 on Processor 0
+3.60 minutes elapsed
+Completed run 7 of 25 on Processor 0
+3.21 minutes elapsed
+Completed run 8 of 25 on Processor 0
+3.66 minutes elapsed
+Completed run 9 of 25 on Processor 0
+2.93 minutes elapsed
+Completed run 10 of 25 on Processor 0
+3.21 minutes elapsed
+Completed run 11 of 25 on Processor 0
+6.51 minutes elapsed
+Completed run 12 of 25 on Processor 0
+6.17 minutes elapsed
+Completed run 13 of 25 on Processor 0
+5.42 minutes elapsed
+Completed run 14 of 25 on Processor 0
+4.62 minutes elapsed
+Completed run 15 of 25 on Processor 0
+3.57 minutes elapsed
+Completed run 16 of 25 on Processor 0
+7.98 minutes elapsed
+Completed run 17 of 25 on Processor 0
+4.94 minutes elapsed
+Completed run 18 of 25 on Processor 0
+5.31 minutes elapsed
+Completed run 19 of 25 on Processor 0
+3.57 minutes elapsed
+Completed run 20 of 25 on Processor 0
+5.59 minutes elapsed
+Completed run 21 of 25 on Processor 0
+4.82 minutes elapsed
+Completed run 22 of 25 on Processor 0
+5.35 minutes elapsed
+Completed run 23 of 25 on Processor 0
+2.44 minutes elapsed
+Completed run 24 of 25 on Processor 0
+3.81 minutes elapsed
+Completed run 25 of 25 on Processor 0
+3.64 minutes elapsed
+
+All ICA runs complete!
+2.02 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+2.03 minutes elapsed
+
+Combining D matrix
+0.59 seconds elapsed
+
+Clustering
+0.65 seconds elapsed
+
+Identified 266 clusters
+Loading individual S and A matrices
+46.24 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+5.13 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/340
+1.50 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 380 of 853 #
+##################################
+
+Setting up...
+0.65 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+6.17 minutes elapsed
+Completed run 2 of 25 on Processor 0
+6.29 minutes elapsed
+Completed run 3 of 25 on Processor 0
+6.01 minutes elapsed
+Completed run 4 of 25 on Processor 0
+10.43 minutes elapsed
+Completed run 5 of 25 on Processor 0
+7.12 minutes elapsed
+Completed run 6 of 25 on Processor 0
+9.11 minutes elapsed
+Completed run 7 of 25 on Processor 0
+9.16 minutes elapsed
+Completed run 8 of 25 on Processor 0
+8.88 minutes elapsed
+Completed run 9 of 25 on Processor 0
+3.36 minutes elapsed
+Completed run 10 of 25 on Processor 0
+3.21 minutes elapsed
+Completed run 11 of 25 on Processor 0
+5.65 minutes elapsed
+Completed run 12 of 25 on Processor 0
+6.24 minutes elapsed
+Completed run 13 of 25 on Processor 0
+5.53 minutes elapsed
+Completed run 14 of 25 on Processor 0
+5.73 minutes elapsed
+Completed run 15 of 25 on Processor 0
+6.62 minutes elapsed
+Completed run 16 of 25 on Processor 0
+12.41 minutes elapsed
+Completed run 17 of 25 on Processor 0
+4.59 minutes elapsed
+Completed run 18 of 25 on Processor 0
+8.24 minutes elapsed
+Completed run 19 of 25 on Processor 0
+5.46 minutes elapsed
+Completed run 20 of 25 on Processor 0
+5.39 minutes elapsed
+Completed run 21 of 25 on Processor 0
+7.15 minutes elapsed
+Completed run 22 of 25 on Processor 0
+4.31 minutes elapsed
+Completed run 23 of 25 on Processor 0
+7.29 minutes elapsed
+Completed run 24 of 25 on Processor 0
+6.32 minutes elapsed
+Completed run 25 of 25 on Processor 0
+7.03 minutes elapsed
+
+All ICA runs complete!
+2.81 hours elapsed
+
+Computing clusters...
+
+Distance matrix completed!
+1.92 minutes elapsed
+
+Combining D matrix
+0.79 seconds elapsed
+
+Clustering
+0.69 seconds elapsed
+
+Identified 311 clusters
+Loading individual S and A matrices
+59.10 seconds elapsed
+
+Gathering final S and A matrices
+
+Final components created
+7.18 seconds elapsed
+Writing files to /home/amy/Documents/GitHub/modulome-C_Glutamicum_Microarray_clean/4_optICA/Outputs/ica_runs/380
+1.67 seconds elapsed
+Complete!
+
+
+##################################
+# Computing dimension 420 of 853 #
+##################################
+
+Setting up...
+0.52 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+11.43 minutes elapsed
+Completed run 2 of 25 on Processor 0
+8.56 minutes elapsed
+Completed run 3 of 25 on Processor 0
+5.49 minutes elapsed
+Completed run 4 of 25 on Processor 0
+8.19 minutes elapsed
+Completed run 5 of 25 on Processor 0
+8.35 minutes elapsed
+Completed run 6 of 25 on Processor 0
+6.75 minutes elapsed
+Completed run 7 of 25 on Processor 0
+8.84 minutes elapsed
+Completed run 8 of 25 on Processor 0
+8.79 minutes elapsed
+Completed run 9 of 25 on Processor 0
+7.04 minutes elapsed
+Completed run 10 of 25 on Processor 0
+7.32 minutes elapsed
+Completed run 11 of 25 on Processor 0
+8.33 minutes elapsed
+Completed run 12 of 25 on Processor 0
+4.69 minutes elapsed
+Completed run 13 of 25 on Processor 0
+6.30 minutes elapsed
+Completed run 14 of 25 on Processor 0
+14.49 minutes elapsed
+Completed run 15 of 25 on Processor 0
+3.23 minutes elapsed
+Completed run 16 of 25 on Processor 0
+3.25 minutes elapsed
+Completed run 17 of 25 on Processor 0
+5.07 minutes elapsed
+Completed run 18 of 25 on Processor 0
+7.72 minutes elapsed
+Completed run 19 of 25 on Processor 0
+6.19 minutes elapsed
+Completed run 20 of 25 on Processor 0
+13.00 minutes elapsed
+Completed run 21 of 25 on Processor 0
+10.30 minutes elapsed
+Completed run 22 of 25 on Processor 0
+8.30 minutes elapsed
+Completed run 23 of 25 on Processor 0
+6.25 minutes elapsed
+Completed run 24 of 25 on Processor 0
+5.08 minutes elapsed
+Completed run 25 of 25 on Processor 0
+4.35 minutes elapsed
+
+All ICA runs complete!
+3.14 hours elapsed
+
+Computing clusters...
+
+Combining D matrix
+
+
+##################################
+# Computing dimension 460 of 853 #
+##################################
+
+Setting up...
+2.08 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+11.70 minutes elapsed
+Completed run 2 of 25 on Processor 0
+14.66 minutes elapsed
+Completed run 3 of 25 on Processor 0
+9.78 minutes elapsed
+Completed run 4 of 25 on Processor 0
+7.00 minutes elapsed
+Completed run 5 of 25 on Processor 0
+4.23 minutes elapsed
+Completed run 6 of 25 on Processor 0
+4.47 minutes elapsed
+Completed run 7 of 25 on Processor 0
+11.38 minutes elapsed
+Completed run 8 of 25 on Processor 0
+5.63 minutes elapsed
+Completed run 9 of 25 on Processor 0
+16.08 minutes elapsed
+Completed run 10 of 25 on Processor 0
+7.26 minutes elapsed
+Completed run 11 of 25 on Processor 0
+8.09 minutes elapsed
+Completed run 12 of 25 on Processor 0
+8.28 minutes elapsed
+Completed run 13 of 25 on Processor 0
+8.86 minutes elapsed
+Completed run 14 of 25 on Processor 0
+5.51 minutes elapsed
+Completed run 15 of 25 on Processor 0
+11.07 minutes elapsed
+Completed run 16 of 25 on Processor 0
+7.89 minutes elapsed
+Completed run 17 of 25 on Processor 0
+11.48 minutes elapsed
+Completed run 18 of 25 on Processor 0
+7.11 minutes elapsed
+Completed run 19 of 25 on Processor 0
+12.55 minutes elapsed
+Completed run 20 of 25 on Processor 0
+7.82 minutes elapsed
+Completed run 21 of 25 on Processor 0
+7.02 minutes elapsed
+Completed run 22 of 25 on Processor 0
+6.84 minutes elapsed
+Completed run 23 of 25 on Processor 0
+10.48 minutes elapsed
+Completed run 24 of 25 on Processor 0
+8.28 minutes elapsed
+Completed run 25 of 25 on Processor 0
+8.60 minutes elapsed
+
+All ICA runs complete!
+3.72 hours elapsed
+
+Computing clusters...
+
+Combining D matrix
+
+
+##################################
+# Computing dimension 500 of 853 #
+##################################
+
+Setting up...
+0.90 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+13.01 minutes elapsed
+Completed run 2 of 25 on Processor 0
+10.27 minutes elapsed
+Completed run 3 of 25 on Processor 0
+13.63 minutes elapsed
+Completed run 4 of 25 on Processor 0
+12.25 minutes elapsed
+Completed run 5 of 25 on Processor 0
+18.06 minutes elapsed
+Completed run 6 of 25 on Processor 0
+12.10 minutes elapsed
+Completed run 7 of 25 on Processor 0
+22.54 minutes elapsed
+Completed run 8 of 25 on Processor 0
+11.66 minutes elapsed
+Completed run 9 of 25 on Processor 0
+12.07 minutes elapsed
+Completed run 10 of 25 on Processor 0
+7.93 minutes elapsed
+Completed run 11 of 25 on Processor 0
+7.59 minutes elapsed
+Completed run 12 of 25 on Processor 0
+12.56 minutes elapsed
+Completed run 13 of 25 on Processor 0
+6.67 minutes elapsed
+Completed run 14 of 25 on Processor 0
+11.39 minutes elapsed
+Completed run 15 of 25 on Processor 0
+7.04 minutes elapsed
+Completed run 16 of 25 on Processor 0
+11.62 minutes elapsed
+Completed run 17 of 25 on Processor 0
+8.22 minutes elapsed
+Completed run 18 of 25 on Processor 0
+6.71 minutes elapsed
+Completed run 19 of 25 on Processor 0
+7.88 minutes elapsed
+Completed run 20 of 25 on Processor 0
+12.46 minutes elapsed
+Completed run 21 of 25 on Processor 0
+9.57 minutes elapsed
+Completed run 22 of 25 on Processor 0
+9.36 minutes elapsed
+Completed run 23 of 25 on Processor 0
+8.34 minutes elapsed
+Completed run 24 of 25 on Processor 0
+10.93 minutes elapsed
+Completed run 25 of 25 on Processor 0
+11.93 minutes elapsed
+
+All ICA runs complete!
+4.61 hours elapsed
+
+Computing clusters...
+
+Combining D matrix
+
+
+##################################
+# Computing dimension 540 of 853 #
+##################################
+
+Setting up...
+0.74 seconds elapsed
+
+Running ICA...
+Completed run 1 of 25 on Processor 0
+16.45 minutes elapsed
+Completed run 2 of 25 on Processor 0
+13.10 minutes elapsed
+Completed run 3 of 25 on Processor 0
+13.94 minutes elapsed
+Completed run 4 of 25 on Processor 0
+13.24 minutes elapsed
+Completed run 5 of 25 on Processor 0
+13.67 minutes elapsed
+Completed run 6 of 25 on Processor 0
+9.64 minutes elapsed
+Completed run 7 of 25 on Processor 0
+7.49 minutes elapsed
+Completed run 8 of 25 on Processor 0
+10.92 minutes elapsed
+Completed run 9 of 25 on Processor 0
+14.56 minutes elapsed
+Completed run 10 of 25 on Processor 0
+11.17 minutes elapsed
+Completed run 11 of 25 on Processor 0
+13.22 minutes elapsed
+Completed run 12 of 25 on Processor 0
+20.85 minutes elapsed
+Completed run 13 of 25 on Processor 0
+10.04 minutes elapsed
+Completed run 14 of 25 on Processor 0
+8.62 minutes elapsed
+Completed run 15 of 25 on Processor 0
+6.60 minutes elapsed
+Completed run 16 of 25 on Processor 0
+9.03 minutes elapsed
+Completed run 17 of 25 on Processor 0
+14.39 minutes elapsed
+Completed run 18 of 25 on Processor 0
+12.86 minutes elapsed
+Completed run 19 of 25 on Processor 0
+9.71 minutes elapsed
+Completed run 20 of 25 on Processor 0
+16.11 minutes elapsed
